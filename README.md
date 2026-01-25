@@ -31,7 +31,7 @@ The pipeline performs the following steps:
 - Pandas
 - Jupyter Notebook
 - SQL
-- CSV Dataset
+- CSV Dataset(kaggle)
 
 ---
 
